@@ -4,7 +4,7 @@ Recentemente correu pelas redes sociais programadores fazendo seus pedidos de na
 
 Este código fonte possui uma versão desse aplicativo feita em HTML
 
-Link com uma prévia: https://betaworkz.com/apps/tutorial/pedido-de-namoro-irrecusavel/
+Link com uma prévia: https://betaworkz.com/apps/blabla/codiguinho-que-eu-disse/
 
 Tutorial ensinando fazer: https://www.youtube.com/watch?v=zxxB9SFh9p4
 
